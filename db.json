@@ -1,0 +1,110 @@
+{"listaLivros": 
+
+  [
+    {
+        "titulo": "Dom Quixote",
+        "autor": "Miguel de Cervantes",
+        "edicao": 1,
+        "ano": 1605,
+        "genero": "Romance",
+        "local": "Estante A",
+        "paginas": 863,
+        "emprestimo": "Não",
+        "imagem": "exemplo1.jpg"
+    },
+    {
+        "titulo": "A Metamorfose",
+        "autor": "Franz Kafka",
+        "edicao": 1,
+        "ano": 1915,
+        "genero": "Ficção Absurda",
+        "local": "Estante B",
+        "paginas": 55,
+        "emprestimo": "Sim",
+        "imagem": "exemplo2.jpg"
+    },
+
+    {
+        "titulo": "1984",
+        "autor": "George Orwell",
+        "edicao": 1,
+        "ano": 1949,
+        "genero": "Ficção distópica",
+        "local": "Estante C",
+        "paginas": 328,
+        "emprestimo": "Sim",
+        "imagem": "exemplo3.jpg"
+      },
+      {
+        "titulo": "O Senhor dos Anéis",
+        "autor": "J.R.R. Tolkien",
+        "edicao": 1,
+        "ano": 1954,
+        "genero": "Fantasia",
+        "local": "Estante D",
+        "paginas": 1178,
+        "emprestimo": "Não",
+        "imagem": "exemplo4.jpg"
+      },
+      {
+        "titulo": "Crime e Castigo",
+        "autor": "Fiódor Dostoiévski",
+        "edicao": 1,
+        "ano": 1866,
+        "genero": "Romance psicológico",
+        "local": "Estante E",
+        "paginas": 671,
+        "emprestimo": "Sim",
+        "imagem": "exemplo5.jpg"
+      },
+
+      {
+        "titulo": "Orgulho e Preconceito",
+        "autor": "Jane Austen",
+        "edicao": 1,
+        "ano": 1813,
+        "genero": "Romance",
+        "local": "Estante F",
+        "paginas": 279,
+        "emprestimo": "Não",
+        "imagem": "exemplo6.jpg"
+      },
+
+      {
+        "titulo": "A Revolução dos Bichos",
+        "autor": "George Orwell",
+        "edicao": 1,
+        "ano": 1945,
+        "genero": "Sátira política",
+        "local": "Estante H",
+        "paginas": 112,
+        "emprestimo": "Sim",
+        "imagem": "exemplo7.jpg"
+      },
+
+      {
+        "titulo": "O Pequeno Príncipe",
+        "autor": "Antoine de Saint-Exupéry",
+        "edicao": 1,
+        "ano": 1943,
+        "genero": "Literatura Infantojuvenil",
+        "local": "Estante I",
+        "paginas": 93,
+        "emprestimo": "Não",
+        "imagem": "exemplo8.jpg"
+      },
+
+      {
+        "titulo": "Memórias Póstumas de Brás Cubas",
+        "autor": "Machado de Assis",
+        "edicao": 1,
+        "ano": 1881,
+        "genero": "Romance",
+        "local": "Estante K",
+        "paginas": 251,
+        "emprestimo": "Sim",
+        "imagem": "exemplo9.jpg"
+      }
+  ]
+
+}
