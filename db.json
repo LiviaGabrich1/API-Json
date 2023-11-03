@@ -10,7 +10,7 @@
         "local": "Estante A",
         "paginas": 863,
         "emprestimo": "Não",
-        "imagem": "exemplo1.jpg"
+        "imagem": "https://m.media-amazon.com/images/I/91PtC5UZNoL._AC_UF1000,1000_QL80_.jpg"
     },
     {
         "titulo": "A Metamorfose",
@@ -21,7 +21,7 @@
         "local": "Estante B",
         "paginas": 55,
         "emprestimo": "Sim",
-        "imagem": "exemplo2.jpg"
+        "imagem": "https://m.media-amazon.com/images/I/71mFnG3Bn3L._AC_UF1000,1000_QL80_.jpg"
     },
 
     {
@@ -33,7 +33,7 @@
         "local": "Estante C",
         "paginas": 328,
         "emprestimo": "Sim",
-        "imagem": "exemplo3.jpg"
+        "imagem": "https://m.media-amazon.com/images/I/819js3EQwbL._AC_UF1000,1000_QL80_.jpg"
       },
       {
         "titulo": "O Senhor dos Anéis",
@@ -44,7 +44,7 @@
         "local": "Estante D",
         "paginas": 1178,
         "emprestimo": "Não",
-        "imagem": "exemplo4.jpg"
+        "imagem": "https://images-americanas.b2w.io/produtos/01/00/img/5202808/2/5202808278_1GG.jpg"
       },
       {
         "titulo": "Crime e Castigo",
@@ -55,7 +55,7 @@
         "local": "Estante E",
         "paginas": 671,
         "emprestimo": "Sim",
-        "imagem": "exemplo5.jpg"
+        "imagem": "https://m.media-amazon.com/images/I/71l6UlO3TxL._AC_UF1000,1000_QL80_.jpg"
       },
 
       {
@@ -67,7 +67,7 @@
         "local": "Estante F",
         "paginas": 279,
         "emprestimo": "Não",
-        "imagem": "exemplo6.jpg"
+        "imagem": "https://m.media-amazon.com/images/I/71rMg3Nr73S._AC_UF1000,1000_QL80_.jpg"
       },
 
       {
@@ -79,7 +79,7 @@
         "local": "Estante H",
         "paginas": 112,
         "emprestimo": "Sim",
-        "imagem": "exemplo7.jpg"
+        "imagem": "https://m.media-amazon.com/images/I/612QiXA+FyL._AC_UF1000,1000_QL80_.jpg"
       },
 
       {
@@ -91,7 +91,7 @@
         "local": "Estante I",
         "paginas": 93,
         "emprestimo": "Não",
-        "imagem": "exemplo8.jpg"
+        "imagem": "https://m.media-amazon.com/images/I/71LJ4k-k9hL._AC_UF1000,1000_QL80_.jpg"
       },
 
       {
@@ -103,7 +103,7 @@
         "local": "Estante K",
         "paginas": 251,
         "emprestimo": "Sim",
-        "imagem": "exemplo9.jpg"
+        "imagem": "https://m.media-amazon.com/images/I/815u+SBDpJL._AC_UF1000,1000_QL80_.jpg"
       }
   ]
 
